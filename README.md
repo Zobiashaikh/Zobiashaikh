@@ -1,17 +1,9 @@
-# Zobia Shaikh
+# Hi, I'm Zobia 👋
 
-AI & Big Data student at the University of Wollongong Dubai. I build machine-learning projects end to end: deepfake detection, price prediction, AI tutoring.
+🎓 I'm in my final year of a Bachelor's in Artificial Intelligence & Big Data at the University of Wollongong Dubai
+💼 Open to graduate roles and internships in AI and machine learning
+📍 Dubai, UAE
 
-→ Currently preparing for the **Sharjah Tourism Innovation Hackathon 2026** at AUS.
-
-**Selected work**
-
-- **[ReelReal](https://github.com/Zobiashaikh/reelreal)**: deepfake video detector. Fine-tuned Vision Transformer (0.98 ROC-AUC), frame-by-frame timeline, Chrome extension, signed results.
-- **[BrainBrew](https://github.com/Zobiashaikh/brainbrew)**: AI Socratic tutor that turns lecture PDFs into adaptive question sessions.
-- **[UAE Real Estate Price Prediction](https://github.com/Zobiashaikh/uae-real-estate-price-prediction)**: gradient-boosting model trained on 5,000+ UAE listings (R² 0.78).
-- **[Pear Internships](https://github.com/Zobiashaikh/pear-internships)**: full-stack internship management platform (Node.js, MySQL).
-- **[Stratify](https://github.com/Zobiashaikh/stratify)**: system analysis and design for an EV manufacturer's planning platform.
-
-**Stack:** Python · PyTorch · Hugging Face · scikit-learn · pandas · JavaScript · TypeScript · React
-
-[LinkedIn](https://www.linkedin.com/in/zobia-shaikh-563b2b354) · shaikhzobia01@gmail.com
+<a href="https://www.linkedin.com/in/zobia-shaikh-563b2b354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge" alt="Portfolio"/></a>
+<a href="mailto:shaikhzobia01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email"/></a>
