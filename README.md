@@ -1,7 +1,9 @@
-# Hi, I'm Zobia
+# Hi, I'm Zobia 👋
 
-🎓 I'm in my final year of a Bachelor's in Artificial Intelligence & Big Data at the University of Wollongong Dubai
-💼 Open to graduate roles and internships in AI and machine learning
+🎓 Final-year AI & Big Data student @ University of Wollongong Dubai
+
+💼 Open to grad roles & internships in AI, machine learning & big data
+
 📍 Dubai, UAE
 
 <a href="https://www.linkedin.com/in/zobia-shaikh-563b2b354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
