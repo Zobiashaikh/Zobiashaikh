@@ -1,4 +1,4 @@
-# Hi, I'm Zobia 👋
+# Hi, I'm Zobia
 
 🎓 I'm in my final year of a Bachelor's in Artificial Intelligence & Big Data at the University of Wollongong Dubai
 💼 Open to graduate roles and internships in AI and machine learning
